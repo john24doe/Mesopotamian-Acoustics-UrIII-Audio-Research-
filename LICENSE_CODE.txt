@@ -1,0 +1,1 @@
+Texte complet de la licence MIT	Pour tous les scripts et codes source (Python, etc.)
