@@ -1,0 +1,20 @@
+{
+  "upload_type": "publication",
+  "publication_type": "project",
+  "title": "Ur III Acoustic Dataset : Analyse archéoacoustique des rituels sumériens",
+  "description": "Projet de recherche sur l'acoustique des rituels Ur III. Objectifs : analyser les fréquences rituelles, modéliser les temples, fournir des données brutes et reproductibles. Méthodologie : analyses spectrales, modélisations 3D, corrélations interdisciplinaires. Résultats attendus : dataset ouvert, scripts d'analyse, visualisations.",
+  "keywords": ["archéologie", "acoustique", "archéoacoustique", "Ur III", "open data"],
+  "related_identifiers": [
+    {
+      "identifier": "https://orcid.org/0000-0000-0000-0000",
+      "relation": "isManagedBy"
+    }
+  ],
+  "contributors": [
+    {"name": "Oracle Analyst", "type": "Researcher", "affiliation": "Indépendant"}
+  ],
+  "license": "CC BY-NC-SA 4.0",
+  "doi": "10.5281/zenodo.9876543",
+  "version": "1.0",
+  "date": "2025-07-18"
+}
