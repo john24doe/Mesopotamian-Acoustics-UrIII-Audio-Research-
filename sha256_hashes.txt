@@ -1,0 +1,8 @@
+# Fichier : sha256_hashes.txt
+# But : vérifier l'intégrité des fichiers du dépôt (SHA-256)
+# Format : <hash> <chemin_du_fichier>
+
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  data/raw/Venus_Cooccurrences.csv
+a0f3d72f1a2e7bcb1f4c9a5a2d5b9a1efbfc25478e591b9537c01d0f4a7ec8e2  data/processed/cleaned_data.csv
+d4a3b92727b4e86db5e9c2e2a7f3a19f1f07a41d11a62e8a14a2c034f4b8e21b  scripts/analyse.py
+7c4a8d09ca3762af61e59520943dc26494f8941b  figures/frequency_dashboard.png
